@@ -1,1 +1,1 @@
-# Automatted-Teller-Machine
+An implementation of Automatted Teller Machine Using Verilog HDL.
